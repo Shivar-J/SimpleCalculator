@@ -1,0 +1,6 @@
+/Users/shivar-j/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/shivar-j/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/shivar-j/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.csproj.AssemblyReference.cache
+/Users/shivar-j/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/shivar-j/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.exe
+/Users/shivar-j/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.pdb
